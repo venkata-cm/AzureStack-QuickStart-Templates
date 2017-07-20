@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmSku": {
-      "defaultValue": "Standard_D1",
+      "defaultValue": "Standard_DS1_V2",
       "type": "String",
       "metadata": {
         "description": "Size of VMs in the VM Scale Set."
